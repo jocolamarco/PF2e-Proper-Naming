@@ -36,9 +36,11 @@
       "path": "languages/en.json"
     }
   ],
-  "url": "URL to host site",
-  "manifest": "manifest link to download",
-  "download": "direct download zip",
-  "license": "LICENSE",
-  "readme": "README.md"
+  "url": "https://github.com/jocolamarco/PF2e-Proper-Naming/",
+  "manifest": "https://github.com/jocolamarco/PF2e-Proper-Naming/releases/latest/download/module.json",
+  "download": "https://github.com/jocolamarco/PF2e-Proper-Naming/releases/download/0.0.1/pf2e-proper-naming.zip",
+  "license": "https://github.com/jocolamarco/PF2e-Proper-Naming/blob/main/LICENSE.md",
+  "readme": "https://github.com/jocolamarco/PF2e-Proper-Naming/blob/main/README.md",
+  "bugs": "https://github.com/jocolamarco/PF2e-Proper-Naming/issues",
+  "changelog": "https://github.com/jocolamarco/PF2e-Proper-Naming/blob/main/CHANGELOG.md",
 }
