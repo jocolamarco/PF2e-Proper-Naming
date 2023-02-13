@@ -6,10 +6,10 @@
   "library": "false",
   "manifestPlusVersion": "1.0.0",
   "minimumCoreVersion": "9",
-  "compatibleCoreVersion": "9",
+  "compatibleCoreVersion": "10.291",
   "authors": [
     {
-      "name": "John Smith",
+      "name": "Joco Lamarco",
       "url": "",
       "discord": "jocolamarco#6795"
     }
