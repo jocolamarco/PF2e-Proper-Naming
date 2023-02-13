@@ -3,23 +3,6 @@
   "title": "PF2e Proper Naming",
   "description": "A module that fixes the PF2e abbreviation used by different modules, converting it to the proper case",
   "version": "0.0.1",
-  "library": "false",
-  "manifestPlusVersion": "1.0.0",
-  "minimumCoreVersion": "9",
-  "compatibleCoreVersion": "10.291",
-  "authors": [
-    {
-      "name": "Joco Lamarco",
-      "url": "",
-      "discord": "jocolamarco#6795"
-    }
-  ],
-  "dependencies": [
-
-  ],
-  "conflicts": [
-    
-  ],
   "esmodules": [
     "scripts/module.js"
   ],
@@ -29,6 +12,7 @@
   "styles": [
     "styles/module.css"
   ],
+  "system": ["pf2e"],
   "languages": [
     {
       "lang": "en",
